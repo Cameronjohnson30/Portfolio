@@ -1,0 +1,29 @@
+.title{
+  font-size: 40px;
+  font-family: fantasy;
+  color: rgb(199, 121, 18);
+  background-color: rgb(14, 82, 150);
+  margin: 100px;
+  text-align: center;
+}
+body {
+  background-color: rgb(100, 97, 97);
+  font-size: 25px;
+}
+
+
+img {
+  width: 250px;
+  height: auto;
+  padding: 2px;
+  border: solid rgb(8, 56, 212);
+  border-width: 5px;
+}
+
+.top {
+  float: right;
+  border: solid rgb(73, 8, 99);
+  border-width: 10px;
+  width: 300px;
+  height: auto;
+}
