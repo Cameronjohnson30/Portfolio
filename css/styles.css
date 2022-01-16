@@ -34,15 +34,16 @@ img {
   width: 80%;
 }
 .sidebar {
-  width: 50%;
+  width: 60%;
   border: solid black;
   border-width: 1px;
   background-color: rgb(33, 102, 27);
   margin-bottom: 10px;
-  float: right;
   box-sizing: border-box;
-  font-size: 45px;
+  float:inline-end;
+  font-size: 35px;
   text-align: left;
+
 }
 .middle {
   float: right;
