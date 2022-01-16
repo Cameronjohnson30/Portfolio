@@ -22,4 +22,4 @@ Known Bugs
 
 License
 This code utilizes a GPL License. If you have any issues/find bugs. Feel free to report them to me at here or contribute a fix to the code. Thanks!
-Copyright (c) 2022 Cameron Johnson
+Copyright (c) 2022 Cameron Johnson,
