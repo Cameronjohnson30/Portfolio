@@ -1,8 +1,6 @@
-Cameron Johnson
+Authored by Cameron Johnson
 
-Co-Authored by 
-
-Portfolio  HTML & CSS styling
+Portfolio
 
 Technologies Used
 * HMTL
@@ -12,7 +10,7 @@ Description
 This website displays information about some of the projects I have completed and tells you about my background. It was constructed with the guidance of Epicodus. The website does not currently incorporate javascript.
 
 Setup/Installation Requirements
-* Clone (git clone https://github.com/Cameronjohnson30/Portfolio.git)or download the repository to your desktop.
+* Clone (git clone https://github.com/Cameronjohnson30/Portfolio.git) or download the repository to your desktop.
 * Open index.HTML file 
 * to alter the code, open the documents in an IDE or text document
 * Any changes should incorporate properly formatted commits with regular history.
