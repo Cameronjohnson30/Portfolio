@@ -64,3 +64,30 @@ img {
   font-size: 30px;
   line-height:30pt;
 }
+
+.middle2 {
+  width: 100%;
+  padding: 200px;
+  border: solid black;
+  border-width: 20px;
+  background-color: rgb(59, 53, 116);
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+.middle3 {
+  width: 100%;
+  padding: 75px;
+  border: solid black;
+  border-width: 30px;
+  background-color: rgb(111, 175, 117);
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+  .ramp {
+  float:inline-start;
+}
+
+.end {
+  line-height: 30px;
+  text-align: center;
+}
